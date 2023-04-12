@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1090752357276",
+    "project_id": "flutterse1611",
+    "storage_bucket": "flutterse1611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090752357276:android:2e75e0e2014fd1c1e9de59",
+        "android_client_info": {
+          "package_name": "com.moneyapp.FPT.taiducvng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090752357276-ik9ib1fbu6ag9ahls21geadlc34nppjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moneyapp.FPT.taiducvng",
+            "certificate_hash": "11f9dcbc8bc8eced79aa171ce910e208a7fb29d4"
+          }
+        },
+        {
+          "client_id": "1090752357276-eq41kanfn69nno4286u4a4enap50m86g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4mqh8Di2Pq2pFiAvzroIeDZ8qG-dJgYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090752357276-8o3a0c6u6r8l4k9hdnaookmamba4do6v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090752357276-62imqr75j60kjq8pvo667p225q70lllu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.hemanths.paisa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

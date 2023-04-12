@@ -1,0 +1,45 @@
+import 'package:flutter/material.dart';
+
+// class MyButton extends StatelessWidget {
+//   final Function()? onTap;
+//   const MyButton({super.key, this.onTap});
+
+//   @override
+//   Widget build(BuildContext context) {
+//     return GestureDetector(
+//       onTap: () {},
+//       child: Container(
+//         padding: EdgeInsets.all(25),
+//         margin: EdgeInsets.symmetric(horizontal: 25),
+//         decoration: BoxDecoration(
+//           color: Colors.black,
+//           borderRadius: BorderRadius.circular(8),
+//         ),
+//         child: Center(
+//           child: Text(
+//             'Sign In',
+//             style: TextStyle(
+//               color: Colors.white,
+//               fontWeight: FontWeight.bold,
+//               fontSize: 16,
+//             ),
+//           ),
+//         ),
+//       ),
+//     );
+//   }
+// }
+
+class MyButton1 extends StatelessWidget {
+  const MyButton1({Key? key, required this.onTap}) : super(key: key);
+
+  final VoidCallback onTap;
+
+  @override
+  Widget build(BuildContext context) {
+    return ElevatedButton(
+      onPressed: onTap, // call the signUserIn function
+      child: const Text('Sign Up'),
+    );
+  }
+}

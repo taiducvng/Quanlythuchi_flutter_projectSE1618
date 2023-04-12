@@ -1,0 +1,1 @@
+ D:\\fukybay\\PRM392_flutter\\SE1611_project\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_en.dart D:\\fukybay\\PRM392_flutter\\SE1611_project\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  D:\\fukybay\\PRM392_flutter\\SE1611_project\\l10n.yaml D:\\fukybay\\PRM392_flutter\\SE1611_project\\lib/localization\\app_en.arb
